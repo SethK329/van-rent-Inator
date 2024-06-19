@@ -1,6 +1,7 @@
 {
-  "name": "Scrim-s04sl18",
+  "name": "@dovetaildev/van-rent-inator",
   "description": "https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0122",
+  "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
